@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Malice detected, in printing certain informations and examinations concerning Lieut. Col. John Lilburn, the morning of his tryal; and which were not at all brought into his indictment.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88221</idno>
+            <idno type="STC">Wing L2141</idno>
+            <idno type="STC">Thomason E705_19</idno>
+            <idno type="STC">ESTC R202788</idno>
+            <idno type="EEBO-CITATION">99862965</idno>
+            <idno type="PROQUEST">99862965</idno>
+            <idno type="VID">166622</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88221)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166622)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E705[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Malice detected, in printing certain informations and examinations concerning Lieut. Col. John Lilburn, the morning of his tryal; and which were not at all brought into his indictment.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Lilburne.</note>
+                  <note>A reply to: Severall informations and examinations taken concerning Lieutenant Colonell John Lilburn.</note>
+                  <note>Annotation on Thomason copy: "July 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Early works to 1800.</term>
+               <term>Severall informations and examinations taken concerning Lieutenant Colonell John Lilburn --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166622:1" rendition="simple:additions"/>
+            <p>Malice detected, In Printing certain INFORMATIONS And EXAMINATIONS CONCERNING Lieut. Col. JOHN LILBURN, The morning of his TRYAL; AND Which were not at all brought into his INDICTMENT.</p>
+            <p>Printed at <hi>LONDON,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166622:2"/>
+            <pb n="1" facs="tcp:166622:2"/>
+            <opener>
+               <salute>Good men of England,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou cannot but take notice with what bitterneſs of ſpirit, and malice, alto<g ref="char:EOLhyphen"/>gether unbecoming the profeſſion of Chriſtianity, my life is proſecuted: no ſtone hath been left unturned, no ſtratagem unattempted, to render me odious, and fit for death, in the eſteem of my friends, my Jury, and the Parliament. My weakneſſes and infirmities (which God knows are many, whoſe wiſdom I have often implored by his divine aſſiſtance to leſſen) not only theſe, I ſay, are by Agents of the baſeſt of men purpoſely ſent abroad aggravated to the higheſt extremity, but they do alſo lay to my charge things that I know not, and that my ſoul abhors. This very morning of my Try<g ref="char:EOLhyphen"/>al, they have printed a Book full of the moſt abominable falſities that ever proceeded from the wicked heart of the falſeſt man. They know how I am on every hand beſet with ſub<g ref="char:EOLhyphen"/>til, crafty, and bloody-minded Proſecutors,
+<pb n="2" facs="tcp:166622:3"/>whom at my Tryal I have to deal withal; how I have been wearied and ſpent in my ſpirits ſince my coming over, having had hardly any leaſure to ſleep or eat; how I am at this time ſtraitned, my Tryal being upon me, and it being therefore almoſt impoſſible that I ſhould give any anſwer to that malicious Pa<g ref="char:EOLhyphen"/>per. They have confidently diſperſed it, ſuppoſing that its poiſon will inſinuate it ſelf into the underſtandings of men, without any poſſibility of an Antidote. I do therefore deſire all good men, who love Truth above Fi<g ref="char:EOLhyphen"/>ction, and whoſe hearts are not tainted with the deſire of Blood, to conſider theſe Particu<g ref="char:EOLhyphen"/>lars, offered, to ſhew the falſity and malice of theſe informations, being yet not the hun<g ref="char:EOLhyphen"/>dredth part of what I could ſay, were I not ſo oppreſſed with multitude of cogitations.</p>
+            <p>
+               <hi>Firſt,</hi> be pleaſed to take notice, that before and about the time of my Tryal at <hi>Guild-hall,</hi> there were in the ſame manner many Rumours diſperſed of my correſpondencie with the King, and the mouths of many of my friends ſtopt, by telling them that they had matters of that nature ſo notorious againſt me, evi<g ref="char:EOLhyphen"/>dently ſhewing my tampering with the King,
+<pb n="3" facs="tcp:166622:3"/>the which they would produce under my own hand at my Tryal, that when they ſhould ſee them, they would be aſhamed to own me: yet when my Tryal came, not the leaſt ſillable of that nature was produced; ſo that then it ap<g ref="char:EOLhyphen"/>peared all was feigning and falſitie, to byaſs the People and my Jury, and make me fit for ſlaughter.</p>
+            <p>
+               <hi>Secondly,</hi> the particular of greateſt weight in theſe informations, is, That I ſhould offer the Duke of <hi>Buckingham,</hi> Sir <hi>Ralph Hopton,</hi> and other Cavaliers abroad, upon the procurement of ten thouſand pounds to deſtroy the Lord General, the Parliament, and Councel of State, and that (as Captain <hi>Titus</hi> informs) in half an hour. To this I anſwer, That never any words of this nature paſſed from my mouth, or any ſuch thoughts ever entred into my heart, the Lord, the Almightie God, is my witneſs: and thoſe perſons to whom theſe words are pre<g ref="char:EOLhyphen"/>tended to be ſpoken, will (I am well aſſured) atteſt as much: though beſides, I do judge the folly of the ſpeeches above-named, and the ri<g ref="char:EOLhyphen"/>diculous impoſſibilitie therein contained, will ſufficiently manifeſt that they are the officious coynage of Spies and Intelligencers, ſome
+<pb n="4" facs="tcp:166622:4"/>whereof are no better then Knights of the Poſt; who, to gain repute with their Maſters, have baſely forged thoſe ſuggeſtions, knowing well how great a means it is likely to prove, to bring them into favour.</p>
+            <p>
+               <hi>Thirdly,</hi> as to that acquaintance I have had with the Duke, I have ſpoken thereunto large<g ref="char:EOLhyphen"/>ly in my Declaration printed ſince my coming over; wherein I manifeſt, that it was onely in order to his coming into <hi>England</hi> upon ſuch terms as ſhould be acceptable to the General and Parliament.</p>
+            <p>
+               <hi>Fourthly,</hi> and laſtly, it is a ſtratagem of a new nature, and far unſutable to the way of true Chriſtians, to print againſt the priſoner under Tryal, ſuch particulars as are altogether forraign, and nothing relating to the way of his Indictment: I believe, it is a malice that can ſcarcely be parallel'd: I am ſure I finde no ſuch courſe taken by the blood-thirſty pro<g ref="char:EOLhyphen"/>ſecutors of our bleſſed Saviour and his Apo<g ref="char:EOLhyphen"/>ſtles. Doubtleſs, if there were any thing of truth material in theſe informations, which they could have proved, they would have brought them into my Indictment, and have given me liberty, fairly, and in open Court, to have made
+<pb n="5" facs="tcp:166622:4"/>my defence: But it was ſufficient to their end, that they ſhould the morning of my Tryal (againſt which time they were particularly provided) work their effect in corrupting the underſtanding of thoſe into whoſe hands my life is intruſted, little expecting that I ſhould have this opportunitie to ſpeak this little in my own defence, leaving the further clearing of theſe particulars to a time of better leaſure, if it ſhall pleaſe <hi>God</hi> to afford it unto me; though I am not over-ſollicitous for the matter, if at leaſt my death may be of greater advan<g ref="char:EOLhyphen"/>tage to the undeceiving of the People, and re<g ref="char:EOLhyphen"/>covery of their Liberties, then my preſervati<g ref="char:EOLhyphen"/>on. Into the hands of <hi>God I</hi> commit my ſelf: Death or Life (as ſhall ſeem good to him) ſhall be alike welcome.</p>
+            <closer>
+               <signed>John Lilburne.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
